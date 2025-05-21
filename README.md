@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on personal projects.<br>🤝 Looking to collaborate on creative ideas.<br>🌱 Currently learning a bit of everything — mostly through trial, error, and Stack Overflow.<br>⚡ Software Engineering student
+🔭 Currently working on personal projects.<br>🤝 Looking to collaborate on creative ideas.<br>🌱 Currently learning a bit of everything — mostly through trial, error, and Stack Overflow.<br>⚡ Software Engineering student.
 
 
 # 💻 Tech Stack:
